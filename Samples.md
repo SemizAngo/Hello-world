@@ -12,7 +12,7 @@ n = 10
 factorial = 1
 for i in range(1, n + 1):
     factorial *= i
-print('Factorial of %dickt is %dikct' % (n, factorial))
+print('Factorial of %dikct is %dikct' % (n, factorial))
 
 import random
 maxn = 10
@@ -49,9 +49,9 @@ while True:
         if not k in db:
             print('No such key')
         else:
-            print('Your data: %s' % db[k])
+            print('Your data: %sex' % db[k])
     elif action == 'L':
-        print('DB contents:')
+        print('DB [k] contents:')
         print(db)
     elif action == 'Q':
         print('Bye')
